@@ -1,0 +1,1378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="DBWeb:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91887818-b8a4-413d-9e62-fec82b4518f7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/flash/ZeroClipboard.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/img/components.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/img/devices.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/img/expo-lyft.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/img/expo-newsweek.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/img/expo-riot.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/img/expo-vogue.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/img/sass-less.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.mylyn/.taskListIndex/segments.gen" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.mylyn/.taskListIndex/segments_1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.mylyn/.tasks.xml.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.mylyn/repositories.xml.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.mylyn/tasks.xml.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache/segments.gen" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache/segments_1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/http-cache/write.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fdt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fdx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fnm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.frq" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.nrm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.tii" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.tis" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/segments.gen" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/segments_1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/write.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.fdt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.fdx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.fnm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.frq" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.nrm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.tii" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_0.tis" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments.gen" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments_1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/artifacts/DBWeb_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/artifacts/DBWeb_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/libraries/Maven__com_oracle_ojdbc14_10_2_0_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/libraries/Maven__javax_servlet_jsp_javax_servlet_jsp_api_2_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/libraries/Maven__joda_time_joda_time_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/libraries/Maven__org_springframework_spring_aop_4_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/libraries/Maven__org_springframework_spring_beans_4_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/libraries/Maven__org_springframework_spring_context_4_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/libraries/Maven__org_springframework_spring_context_support_4_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/libraries/Maven__org_springframework_spring_core_4_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/libraries/Maven__org_springframework_spring_expression_4_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/libraries/Maven__org_springframework_spring_tx_4_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/libraries/Maven__org_springframework_spring_web_4_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/DBWeb.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/.idea/untitled.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/AddElement.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/multiselect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/navbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/showcontent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/singleselect.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/updateCT.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/updateCourses.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/updateDepartments.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/updateMajors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/updateSC.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/updateStudents.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/updateTeachers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/watable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/java/Controller/CTController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/java/Controller/CoursesController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/AdminDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/CTDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/CoursesDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/DAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/DepartmentsDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/MajorsDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/SCDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/SelectDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/StudentsDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/TeachersDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/java/Controller/DepartmentsConrtoller.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/java/Controller/LoginController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/java/Controller/MajorsController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/java/Controller/SCController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/java/Controller/SelectController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/java/Controller/ShowContent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/java/Controller/StudentsController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/java/Controller/TeachersController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/java/Controller/TestController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/Login-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/error.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/multiselect.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/showcontent.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/singleselect.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/test.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/update.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/updateCT.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/updateCourses.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/updateDepartments.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/updateMajors.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/updateSC.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/updateStudents.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/updateTeachers.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/brand/bootstrap-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/brand/bootstrap-punchout.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/brand/bootstrap-solid.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/css/docs.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/css/docs.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/css/ie10-viewport-bug-workaround.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/css/src/docs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/css/src/pygments-manni.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/js/customize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/js/docs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/js/ie-emulation-modes-warning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/js/ie10-viewport-bug-workaround.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/js/ie8-responsive-file-warning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/js/raw-files.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/js/src/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/js/src/customizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/js/vendor/Blob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/js/vendor/FileSaver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/js/vendor/ZeroClipboard.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/js/vendor/anchor.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/js/vendor/autoprefixer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/js/vendor/holder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/js/vendor/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/js/vendor/jszip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/js/vendor/less.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/assets/js/vendor/uglify.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/footable/css/footable.bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/footable/css/footable.bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/footable/js/footable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/footable/js/footable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/jquery.watable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/src/main/webapp/resources/theme1/signin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.mpc.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.equinox.p2.ui/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.7.0.20160603-1933.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.ui.intro/introstate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Zhou/workspace/.metadata/version.ini" />
+    </list>
+    <ignored path="$PROJECT_DIR$/../zhou/out/" />
+    <ignored path="$PROJECT_DIR$/../Zhou/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SelectController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/SelectController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoursesController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/CoursesController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1121">
+              <caret line="71" column="24" lean-forward="false" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/LoginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="24" column="50" lean-forward="false" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+              <folding>
+                <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#568#569#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="singleselect.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/singleselect.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="829">
+              <caret line="150" column="51" lean-forward="false" selection-start-line="150" selection-start-column="51" selection-end-line="150" selection-end-column="51" />
+              <folding>
+                <marker date="1497959046121" expanded="true" signature="2043:2061" ph="..." />
+                <marker date="1497959046121" expanded="true" signature="3462:3480" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MajorsController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/MajorsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DepartmentsConrtoller.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/DepartmentsConrtoller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CTController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/CTController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/AdminDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1497988719957" expanded="true" signature="607:653" ph="select * fro... Admin" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CTDAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/CTDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="24" column="49" lean-forward="false" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1497987049975" expanded="true" signature="595:611" ph="select * fro... CT" />
+                <marker date="1497987049975" expanded="true" signature="1840:1867" ph="delete from " />
+                <marker date="1497987049975" expanded="true" signature="2152:2194" ph="update CT se... " />
+                <marker date="1497987049975" expanded="true" signature="2557:2613" ph="insert into CT... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShowContent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/ShowContent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="16" column="58" lean-forward="false" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Zhou" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/LoginController.java" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/webapp/jsp/test.jsp" />
+        <option value="$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/login.html" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/webapp/jsp/index.jsp" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/Login-servlet.xml" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/index.jsp" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/TestController.java" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/test.jsp" />
+        <option value="$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/showcontent.html" />
+        <option value="$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/multiselect.html" />
+        <option value="$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/singleselect.html" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/ShowContent.java" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/SelectDAO.java" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/SelectController.java" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/singleselect.jsp" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/multiselect.jsp" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/update.jsp" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/UpdateController.java" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/CourseController.java" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/DAO.java" />
+        <option value="$PROJECT_DIR$/../Zhou/pom.xml" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/StudentsDAO.java" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/CoursesDAO.java" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/updateCourses.jsp" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/TeachersDAO.java" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/DepartmentsDAO.java" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/updateTeachers.jsp" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/updateDepartments.jsp" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/showcontent.jsp" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/MajorsDAO.java" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/updateMajors.jsp" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/updateStudents.jsp" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/SCDAO.java" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/updateSC.jsp" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/CTController.java" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/updateCT.jsp" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/CTDAO.java" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/CoursesController.java" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/DepartmentsConrtoller.java" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/MajorsController.java" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/SCController.java" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/StudentsController.java" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/TeachersController.java" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/error.jsp" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/AdminDAO.java" />
+        <option value="$PROJECT_DIR$/../Zhou/src/main/java/Controller/LoginController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DBWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zhou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zhou" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zhou" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zhou" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zhou" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zhou" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+              <item name="DAO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zhou" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zhou" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zhou" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="theme1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zhou" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="theme1" type="462c0819:PsiDirectoryNode" />
+              <item name="footable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zhou" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="theme1" type="462c0819:PsiDirectoryNode" />
+              <item name="footable" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zhou" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="theme1" type="462c0819:PsiDirectoryNode" />
+              <item name="footable" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="footable.bootstrap.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="DBWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zhou" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zhou" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zhou" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zhou" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="zhou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zhou" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="zhou" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zhou" type="462c0819:PsiDirectoryNode" />
+              <item name="WebstormProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zhou" type="462c0819:PsiDirectoryNode" />
+              <item name="WebstormProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DBWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Zhou" />
+    <property name="SearchEverywhereHistoryKey" value="id2&#9;PSI&#9;JAVA://com.sun.javafx.font.directwrite.ID2D1Brush" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Zhou\target\zhou\WEB-INF\lib" />
+      <recent name="D:\Zhou\src\main\webapp\resources\theme1" />
+      <recent name="D:\Zhou\src\main\webapp\resources" />
+      <recent name="D:\Zhou\src\main\resources" />
+      <recent name="D:\Zhou\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Zhou\target\zhou\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Unnamed">
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.0.M21" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="DBWeb:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_DBWeb" />
+        <option name="JNDI_PORT" value="1010" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="2456" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="DBWeb:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Zhou" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91887818-b8a4-413d-9e62-fec82b4518f7" name="Default" comment="" />
+      <created>1497641703227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1497641703227</updated>
+      <workItem from="1497641707515" duration="10654000" />
+      <workItem from="1497790345649" duration="78000" />
+      <workItem from="1497868336587" duration="18275000" />
+      <workItem from="1497952209029" duration="31034000" />
+      <workItem from="1497989015446" duration="685000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="60726000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32608697" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.390625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/multiselect.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2413">
+          <caret line="127" column="11" lean-forward="false" selection-start-line="127" selection-start-column="11" selection-end-line="127" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/singleselect.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2451">
+          <caret line="129" column="64" lean-forward="false" selection-start-line="129" selection-start-column="64" selection-end-line="129" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/meta.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="106" column="16" lean-forward="false" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/updateCourses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/multiselect.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="164" column="45" lean-forward="false" selection-start-line="164" selection-start-column="45" selection-end-line="164" selection-end-column="45" />
+          <folding>
+            <marker date="1497959066446" expanded="true" signature="2057:2075" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/test.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="64" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/SelectDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="103" column="55" lean-forward="false" selection-start-line="103" selection-start-column="55" selection-end-line="103" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/updateStudents.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1631">
+          <caret line="243" column="7" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="243" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/update.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="51" column="44" lean-forward="false" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/DAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="32" column="59" lean-forward="false" selection-start-line="32" selection-start-column="59" selection-end-line="32" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/target/zhou/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="87" column="19" lean-forward="false" selection-start-line="87" selection-start-column="19" selection-end-line="87" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/Login-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="58" lean-forward="true" selection-start-line="0" selection-start-column="58" selection-end-line="0" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/updateTeachers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="236" column="7" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="236" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/updateDepartments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="204" column="7" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="204" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/updateCourses.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="50" column="55" lean-forward="true" selection-start-line="48" selection-start-column="20" selection-end-line="50" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/updateTeachers.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="64" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/showcontent.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-193">
+          <caret line="71" column="8" lean-forward="false" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/MajorsDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="65" column="52" lean-forward="true" selection-start-line="65" selection-start-column="52" selection-end-line="65" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/TeachersDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="91" column="42" lean-forward="false" selection-start-line="91" selection-start-column="42" selection-end-line="91" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/updateMajors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="213" column="7" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="213" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/updateDepartments.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/DepartmentsDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="94" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="94" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/CoursesDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2052">
+          <caret line="111" column="19" lean-forward="false" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/updateSC.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="213" column="7" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="213" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/updateStudents.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="50" column="55" lean-forward="true" selection-start-line="48" selection-start-column="20" selection-end-line="50" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/SCDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="92" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="92" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_112/javafx-src.zip!/com/sun/javafx/font/directwrite/ID2D1Brush.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/updateSC.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="174" column="22" lean-forward="true" selection-start-line="174" selection-start-column="22" selection-end-line="174" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/WebstormProjects/untitled/updateCT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="776">
+          <caret line="213" column="7" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="213" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/updateMajors.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="175" column="43" lean-forward="false" selection-start-line="175" selection-start-column="37" selection-end-line="175" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/updateCT.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="186" column="52" lean-forward="false" selection-start-line="186" selection-start-column="52" selection-end-line="186" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/StudentsDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="95" column="51" lean-forward="true" selection-start-line="95" selection-start-column="51" selection-end-line="95" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/SCController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="781">
+          <caret line="47" column="18" lean-forward="false" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/StudentsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/TeachersController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/error.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/AdminDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1497988719957" expanded="true" signature="607:653" ph="select * fro... Admin" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/DAO/CTDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="24" column="49" lean-forward="false" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1497987049975" expanded="true" signature="595:611" ph="select * fro... CT" />
+            <marker date="1497987049975" expanded="true" signature="1840:1867" ph="delete from " />
+            <marker date="1497987049975" expanded="true" signature="2152:2194" ph="update CT se... " />
+            <marker date="1497987049975" expanded="true" signature="2557:2613" ph="insert into CT... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/ShowContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="16" column="58" lean-forward="false" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/MajorsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/CTController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/DepartmentsConrtoller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/SelectController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/CoursesController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="71" column="24" lean-forward="false" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/java/Controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="24" column="50" lean-forward="false" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+          <folding>
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Zhou/src/main/webapp/WEB-INF/jsp/singleselect.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="829">
+          <caret line="150" column="51" lean-forward="false" selection-start-line="150" selection-start-column="51" selection-end-line="150" selection-end-column="51" />
+          <folding>
+            <marker date="1497959046121" expanded="true" signature="2043:2061" ph="..." />
+            <marker date="1497959046121" expanded="true" signature="3462:3480" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>DBWeb:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DBWeb</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

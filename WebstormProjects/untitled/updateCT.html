@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../src/main/webapp/resources/theme1/favicon.ico">
+
+    <title>学生选课管理系统</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" rel="stylesheet">
+    <!-- FooTable Bootstrap CSS -->
+    <link href="../../src/main/webapp/resources/theme1/footable/css/footable.bootstrap.min.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- Static navbar -->
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">学生选课管理系统</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">单表查询</a></li>
+                    <li><a href="multiselect.html">多表查询</a></li>
+                    <li><a href="#">更改数据</a></li>
+                </ul>
+
+            </div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+    </nav>
+
+    <!-- Main component for a primary marketing message or call to action -->
+    <div class="jumbotron">
+        <form action="/modifyselect/" method="post">
+            <div class="input-group">
+                <label>请选择要更改的表：</label>
+                <select name="table" class="form-control">
+                    <option>课程</option>
+                    <option>学生</option>
+                    <option>教师</option>
+                    <option>选课表</option>
+                    <option>授课表</option>
+                    <option>院系表</option>
+                    <option>专业表</option>
+                </select>
+                <input type="submit" class="btn btn-default" value="提交"/>
+            </div>
+
+        </form>
+    </div>
+    <div class="example">
+        <table id="editing-example" class="table" data-paging="true" data-filtering="true" data-sorting="true">
+            <thead>
+            <tr>
+                <th data-name="id" data-breakpoints="xs" data-type="number">id</th>
+                <th data-name="Cid">Cid</th>
+                <th data-name="Tid">Tid</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr data-expanded="true">
+                <td>1</td>
+                <td>Dennise</td>
+                <td>Fuhrman</td>
+            </tr>
+
+            </tbody>
+        </table>
+
+        <!-- Modal -->
+        <div class="modal fade" id="editor-modal" tabindex="-1" role="dialog" aria-labelledby="editor-title">
+            <style scoped>
+                /* provides a red astrix to denote required fields */
+                .form-group.required .control-label:after {
+                    content:"*";
+                    color:red;
+                    margin-left: 4px;
+                }
+            </style>
+            <div class="modal-dialog" role="document">
+                <form class="modal-content form-horizontal" id="editor">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title" id="editor-title">增加列</h4>
+                    </div>
+                    <div class="modal-body">
+                        <input type="number" id="id" name="id" class="hidden"/>
+                        <div class="form-group required">
+                            <label for="id2" class="col-sm-3 control-label">id</label>
+                            <div class="col-sm-9">
+                                <input type="number" class="form-control" id="id2" name="id2" placeholder="id" required>
+                            </div>
+                        </div>
+                        <div class="form-group required">
+                            <label for="Cid" class="col-sm-3 control-label">Cid</label>
+                            <div class="col-sm-9">
+                                <input type="text" class="form-control" id="Cid" name="Cid" placeholder="Cid" required>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="Tid" class="col-sm-3 control-label">Tid</label>
+                            <div class="col-sm-9">
+                                <input type="text" class="form-control" id="Tid" name="Tid" placeholder="Tid" required>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="submit" class="btn btn-primary">保存</button>
+                        <button type="button" class="btn btn-default" data-dismiss="modal">退出</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div> <!-- /container -->
+
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<!-- Add in any FooTable dependencies we may need -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment.min.js"></script>
+<!-- Add in FooTable itself -->
+<script src="../../src/main/webapp/resources/theme1/footable/js/footable.js"></script>
+<!-- Initialize FooTable -->
+<script>
+    jQuery(function($){
+        var $modal = $('#editor-modal'),
+            $editor = $('#editor'),
+            $editorTitle = $('#editor-title'),
+            ft = FooTable.init('#editing-example', {
+                editing: {
+                    enabled: true,
+                    addRow: function(){
+                        $modal.removeData('row');
+                        $editor[0].reset();
+                        $editorTitle.text('Add a new row');
+                        $modal.modal('show');
+                    },
+                    editRow: function(row){
+                        var values = row.val();
+                        $editor.find('#id2').val(values.id2);
+                        $editor.find('#Cid').val(values.Cid);
+                        $editor.find('#Tid').val(values.Tid);
+                        $modal.data('row', row);
+                        $editorTitle.text('Edit row #' + values.id2);
+                        $modal.modal('show');
+                    },
+                    deleteRow: function(row){
+                        if (confirm('Are you sure you want to delete the row?')){
+                            row.delete();
+                        }
+                        var values = row.val();
+                        console.log(values.id2);
+                        $.ajax({
+                            type:'POST',
+                            url: '/CT/delete',
+                            data : {"table":"CT","id":values.id2},
+                            dataType:'json'
+                        })
+                    }
+                }
+            }),
+            uid = 10;
+
+        $editor.on('submit', function(e){
+            if (this.checkValidity && !this.checkValidity()) return;
+            e.preventDefault();
+            var row = $modal.data('row'),
+                values = {
+                    id2: $editor.find('#id2').val(),
+                    Cid: $editor.find('#Cid').val(),
+                    Tid: $editor.find('#Tid').val()
+                };
+
+            if (row instanceof FooTable.Row){
+                row.val(values);
+                console.log(values);
+            } else {
+                values.id = uid++;
+                ft.rows.add(values);
+            }
+            $.ajax({
+                type:'POST',
+                url: '/CT/updateoradd',
+                data : {"table":"Students","id":values.id2,"Cid":values.Cid,"Tid":values.Tid},
+                dataType:'json'
+            });
+            $modal.modal('hide');
+        });
+    });
+</script>
+</body>
+</html>
